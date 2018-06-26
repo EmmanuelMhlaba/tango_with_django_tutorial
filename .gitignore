@@ -16,3 +16,9 @@ tests/coverage_html/
 tests/.coverage
 build/
 tests/report/
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
